@@ -26,6 +26,14 @@
 <br>
 
 <div align="center">
+  <h3 style="font-size: 24px;">📞 Contact Me</h3>
+  <p>Email: deekibraa@gmail.com</p>
+  <p>Phone: +251704164433 or +251943164433</p>
+</div>
+
+<br>
+
+<div align="center">
   <h3 style="font-size: 24px;">👁️ Profile Views</h3>
   <img src="https://komarev.com/ghpvc/?username=deekibraahim&label=Profile%20views&color=0e75b6&style=flat" alt="deekibraahim" />
 </div>
