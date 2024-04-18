@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 36px;">👋 Hi, I'm DEK IBRAHIM MUSE</h1>
-  <p style="font-size: 20px;">"As long as you are hungry, you are still successful"</p>
+  <p style="font-size: 18px;">"As long as you are hungry, you are still successful"</p>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI2MjBhMjRlMzAxOTdlNGMxZDNjNTc1MzYxYjJiZjM3YTQ3MDdhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="coden" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; height: 200px; margin-top: 20px;">
 </div>
 
@@ -27,8 +27,8 @@
 
 <div align="center">
   <h3 style="font-size: 24px;">📞 Contact Me</h3>
-  <p>Email: deekibraa@gmail.com</p>
-  <p>Phone: +251704164433 or +251943164433</p>
+  <p style="font-size: 18px;">Email: deekibraa@gmail.com</p>
+  <p style="font-size: 18px;">Phone: +251704164433 or +251943164433</p>
 </div>
 
 <br>
