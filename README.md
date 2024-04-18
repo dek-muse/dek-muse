@@ -2,20 +2,22 @@
 
 "As long as you are hungry, you are still successful"
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI2MjBhMjRlMzAxOTdlNGMxZDNjNTc1MzYxYjJiZjM3YTQ3MDdhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="coden" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 300px; height: 200px; float: right; margin-left: 20px;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI2MjBhMjRlMzAxOTdlNGMxZDNjNTc1MzYxYjJiZjM3YTQ3MDdhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="coden" class="rounded-lg shadow-md w-64 h-40 animate-bounce">
 
 ## 💼 Skills
 
-- HTML5
-- CSS3
-- JavaScript
-- ReactJS
-- Node.js
-- Express
-- PostgreSQL
-- Git
-- SASS
-- Tailwind CSS
+<div class="flex flex-wrap">
+  <div class="bg-blue-500 text-white rounded-full px-3 py-1 mr-2 mb-2">HTML5</div>
+  <div class="bg-blue-500 text-white rounded-full px-3 py-1 mr-2 mb-2">CSS3</div>
+  <div class="bg-blue-500 text-white rounded-full px-3 py-1 mr-2 mb-2">JavaScript</div>
+  <div class="bg-blue-500 text-white rounded-full px-3 py-1 mr-2 mb-2">ReactJS</div>
+  <div class="bg-blue-500 text-white rounded-full px-3 py-1 mr-2 mb-2">Node.js</div>
+  <div class="bg-blue-500 text-white rounded-full px-3 py-1 mr-2 mb-2">Express</div>
+  <div class="bg-blue-500 text-white rounded-full px-3 py-1 mr-2 mb-2">PostgreSQL</div>
+  <div class="bg-blue-500 text-white rounded-full px-3 py-1 mr-2 mb-2">Git</div>
+  <div class="bg-blue-500 text-white rounded-full px-3 py-1 mr-2 mb-2">SASS</div>
+  <div class="bg-blue-500 text-white rounded-full px-3 py-1 mr-2 mb-2">Tailwind CSS</div>
+</div>
 
 ## 📞 Contact Me
 
